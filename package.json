@@ -1,10 +1,22 @@
 {
 	"name": "cra-template-john",
-	"version": "0.1.5",
+	"version": "0.1.6",
 	"license": "MIT",
 	"author": "John Kirtley <kirtleyj16@gmail.com>",
 	"main": "template.json",
 	"description": "Quick start CRA template to reduce setup time.",
+	"keywords": [
+		"react",
+		"create-react-app",
+		"cra-template",
+		"template",
+		"axios",
+		"jest",
+		"styled-components",
+		"sass",
+		"react-router",
+		"react-router-dom"
+	],
 	"files": [
 		"template",
 		"template.json"
