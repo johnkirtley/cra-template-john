@@ -16,3 +16,5 @@
     • react-router-dom
     • react-scripts
     • styled-components
+
+# [NPM Package Link](https://www.npmjs.com/package/cra-template-john)
