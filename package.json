@@ -1,10 +1,10 @@
 {
 	"name": "cra-template-john",
-	"version": "0.1.1",
+	"version": "0.1.3",
 	"license": "MIT",
 	"author": "John Kirtley <kirtleyj16@gmail.com>",
 	"main": "template.json",
-	"description": "Quick start CRA template for John.",
+	"description": "Quick start CRA template to reduce setup time.",
 	"files": [
 		"template",
 		"template.json"
